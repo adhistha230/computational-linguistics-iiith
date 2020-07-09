@@ -1,0 +1,1 @@
+match function,alert command,getElementById,getElementByName,JQuery,Hide function,Visible,Math function
